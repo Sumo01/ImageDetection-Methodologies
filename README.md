@@ -5,7 +5,7 @@ This repo has all the image detection methodologies that are commonly used when 
 ## Methodologies:
 These are implementations of common methodologies along with examples for simple understanding. 
 1. <a href='CannyEdgeDetection.ipynb'> Canny Edge Detection</a>
-2. <a href='DilationandErosion.ipynb'>Dilation and Erosion</a>
+2. <a href='DilationAndErosion.ipynb'>Dilation and Erosion</a>
 3. <a href='FourierTransform.ipynb'>Fourier Transform</a>
 4. <a href='HistogramEqualization.ipynb'>Histogram Equalization</a>
 5. <a href='HoughTransform.ipynb'>Hough Transform</a>
@@ -13,7 +13,7 @@ These are implementations of common methodologies along with examples for simple
 ## Modules:
 These files have all the codes for the different methodologies for easy importing
 
-### ImageIO.py
+### <a href='ImageIO.py'>ImageIO</a>
 This file has all the input output operations that can be performed on the images.
 
 1. ```ChangeDirectory(curr,new)``` - Changes the directory that the os is in from curr to new

@@ -34,7 +34,7 @@ def PlotOne(image,scale):
         plt.imshow(image)
         
 #PLots images in a matrix        
-def Plot(images,names,scale,rows,cols,length=20,breadth=20):
+def Plot(images,names,scale,rows=10,cols=5,length=20,breadth=20):
     plt.figure(figsize = (length,breadth))
     for i,im in enumerate(images):
         plt.subplot(rows,cols,(i+1))

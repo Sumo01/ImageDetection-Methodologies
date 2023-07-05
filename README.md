@@ -4,7 +4,7 @@ This repo has all the image detection methodologies that are commonly used when 
 
 ## Methodologies:
 These are implementations of common methodologies along with examples for simple understanding. 
-1. CannyEdgeDetection.ipynb
+1. <a href='CannyEdgeDetection.ipynb'> >Canny Edge Detection</a>
 2. DilationandErosion.ipynb
 3. FourierTransform.ipynb
 4. HistogramEqualization.ipynb

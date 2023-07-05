@@ -16,4 +16,4 @@ These files have all the codes for the different methodologies for easy importin
 ### ImageIO.py
 This file has all the input output operations that can be performed on the images.
 
-1. '''ChangeDirectory(curr,new)''' - Changes the directory that the os is in from curr to new
+1. ```ChangeDirectory(curr,new)``` - Changes the directory that the os is in from curr to new
